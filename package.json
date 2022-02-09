@@ -1,0 +1,17 @@
+{
+  "name": "@aby21/convert-time",
+  "version": "0.0.1",
+  "description": "A simple time-converter. More features will be soon Added!",
+  "license": "MIT",
+  "repository": "21Aby/convert-time",
+  "main": "index.js",
+  "keywords": [
+    "time",
+    "convert",
+    "npm",
+    "package",
+    "format",
+    "parse",
+    "utility"
+  ]
+}
