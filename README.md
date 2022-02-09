@@ -40,7 +40,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Abin Varghese** 
-
-## License
-
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
