@@ -17,7 +17,7 @@ $ npm i @aby21/convert-time
 ### convertTime
 
 ```js
-converTime(millis: integer)
+convertTime(millis: integer)
 ```
 
 Convert milli seconds to seconds
